@@ -1,0 +1,82 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.papyrusrt.codegen.standalone
+Archiver-Version: Plexus Archiver
+Built-By: genie.papyrus-rt
+Require-Bundle: com.google.inject;bundle-version="[3.0.0,4.0.0)",org.a
+ pache.commons.cli;bundle-version="[1.2.0,2.0.0)",org.eclipse.emf.ecor
+ e;bundle-version="[2.13.0,3.0.0)",org.eclipse.emf.common;bundle-versi
+ on="[2.13.0,3.0.0)",org.eclipse.equinox.registry;bundle-version="[3.7
+ .0,4.0.0)",org.eclipse.papyrus.designer.languages.cpp.library;bundle-
+ version="[1.0.4,2.0.0)",org.eclipse.papyrusrt.codegen;bundle-version=
+ "[1.0.0,2.0.0)",org.eclipse.papyrusrt.codegen.config;bundle-version="
+ [1.0.0,2.0.0)",org.eclipse.papyrusrt.codegen.cpp.profile;bundle-versi
+ on="[1.0.0,2.0.0)",org.eclipse.papyrusrt.codegen.cpp;bundle-version="
+ [1.0.0,2.0.0)",org.eclipse.papyrusrt.codegen.cpp.statemachines.flat;b
+ undle-version="[1.0.0,2.0.0)",org.eclipse.papyrusrt.codegen.cpp.struc
+ ture;bundle-version="[1.0.0,2.0.0)",org.eclipse.papyrusrt.codegen.uti
+ ls;bundle-version="[1.0.0,2.0.0)",org.eclipse.papyrusrt.rts;bundle-ve
+ rsion="[1.0.0,2.0.0)",org.eclipse.papyrusrt.umlrt.common.rts.library;
+ bundle-version="[1.0.0,2.0.0)",org.eclipse.papyrusrt.umlrt.profile;bu
+ ndle-version="[1.0.0,2.0.0)",org.eclipse.papyrusrt.umlrt.uml;bundle-v
+ ersion="[1.0.0,2.0.0)",org.eclipse.papyrusrt.xtumlrt.aexpr;bundle-ver
+ sion="[1.0.0,2.0.0)",org.eclipse.papyrusrt.xtumlrt.aexpr.uml;bundle-v
+ ersion="[1.0.0,2.0.0)",org.eclipse.papyrusrt.xtumlrt.common.model;bun
+ dle-version="[1.0.0,2.0.0)",org.eclipse.papyrusrt.xtumlrt.config;bund
+ le-version="[1.0.0,2.0.0)",org.eclipse.papyrusrt.xtumlrt.external;bun
+ dle-version="[1.0.0,2.0.0)",org.eclipse.papyrusrt.xtumlrt.interaction
+ s.model;bundle-version="[1.0.0,2.0.0)",org.eclipse.papyrusrt.xtumlrt.
+ statemach.model;bundle-version="[1.0.0,2.0.0)",org.eclipse.papyrusrt.
+ xtumlrt.statemach.ext.model;bundle-version="[1.0.0,2.0.0)",org.eclips
+ e.papyrusrt.xtumlrt.trans.from.uml;bundle-version="[1.0.0,2.0.0)",org
+ .eclipse.papyrusrt.xtumlrt.umlrt.model;bundle-version="[1.0.0,2.0.0)"
+ ,org.eclipse.papyrusrt.xtumlrt.util;bundle-version="[1.0.0,2.0.0)",or
+ g.eclipse.uml2.uml;bundle-version="[5.3.0,6.0.0)",org.eclipse.uml2.um
+ l.resources;bundle-version="[5.3.0,6.0.0)",org.eclipse.xtext.xbase.li
+ b;bundle-version="[2.12.0,3.0.0)"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Bundle-Version: 1.0.0.201707181457
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_121
+Eclipse-BundleShape: dir
+
+Name: about.html
+SHA-256-Digest: ztAMiiYpRXNaoGiPM8Lk8wy9qkGi4jmdigNkk+8O0Ko=
+
+Name: org/eclipse/papyrusrt/codegen/standalone/StandaloneUMLRTCodeGenI
+ njectionModule.class
+SHA-256-Digest: E3QIzBovJnOPgMJfr/NWKLMqKl9RkhJKUrNKV1qnLKY=
+
+Name: org/eclipse/papyrusrt/codegen/standalone/internal/StandaloneGene
+ ratorManager.class
+SHA-256-Digest: lkxH2auFKmHxFcz+WMgFiGW40t9aLDZhoqNcosSgXDM=
+
+Name: META-INF/maven/org.eclipse.papyrusrt/org.eclipse.papyrusrt.codeg
+ en.standalone/pom.xml
+SHA-256-Digest: 2l4N4XQi/PI5ToyJSJlY/GIjJP3HLxu3e2ZVt5aIpSI=
+
+Name: org/eclipse/papyrusrt/codegen/standalone/StandaloneUMLRT2CppCode
+ Generator.class
+SHA-256-Digest: t26SCb8PoFGwCvr6WwHIXs8WbDEn+rg0huGPYUjT6kk=
+
+Name: org/eclipse/papyrusrt/codegen/standalone/StandaloneUMLRTCodeGene
+ rator.class
+SHA-256-Digest: Whym5dzIGmX/Kq8d9hSsdDIScnncQcUaFyHpGrDKsU0=
+
+Name: plugin.properties
+SHA-256-Digest: kevgRmeaodtL7Mym/vstIG+aR6scV9YncY1roNl2+9M=
+
+Name: umlrtgen.sh
+SHA-256-Digest: CeazXq/fE/Go6OCakbyhq9MigsFaUoIgds1gci7Nl7A=
+
+Name: META-INF/maven/org.eclipse.papyrusrt/org.eclipse.papyrusrt.codeg
+ en.standalone/pom.properties
+SHA-256-Digest: HXSvDUbUS8zI5EXhS6i1K1xCDmc6gVXeYJU7pCpU4kc=
+
+Name: org/eclipse/papyrusrt/codegen/standalone/StandaloneUMLRT2CppCode
+ Generator$RecursiveFileRemover.class
+SHA-256-Digest: N9E8AjCv1Jaj5G/MGMaaKW1VO8S+0w4D+f2M1hJ8fsI=
+

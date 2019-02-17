@@ -1,0 +1,83 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: GcwLCk+N9MvX23sWHgAnretRrU2lp
+ fzVRsfksszK00Q=
+SHA-256-Digest-Manifest: ggvN4xdCMwFv2Wzy4mcjdi1uklXKFa6z//LU77f1kbE=
+Created-By: 1.8.0_121 (Oracle Corporation)
+
+Name: plugin.xml
+SHA-256-Digest: YSftjetvXNtX8S7mk//LJzQ6L6aodrhQcKyxgnj2be4=
+
+Name: icons/papyrusrt16-8.bmp
+SHA-256-Digest: cRRLAG18zdwiGbRRYONq8PdflK66gd85iy9NLqvwA2s=
+
+Name: splash.bmp
+SHA-256-Digest: k7FQvQuMKbtRloaC7rqPjbst+jt2TEM7Po2emerzx1w=
+
+Name: pom.xml
+SHA-256-Digest: 1m6WsNCgjd3dcfbqwIkzuE78vzdaBdRqmrnCJL3zuFk=
+
+Name: icons/papyrusrt48.png
+SHA-256-Digest: HP6fuCx6PwO+VzyiOjacGEZEwBDuP9DQPMExJmKlxAM=
+
+Name: icons/papyrusrt256.png
+SHA-256-Digest: QEJj2QTZY1HZIc4BPhT1O2RJvSw4ddkClKvg+qJXtx8=
+
+Name: icons/papyrusrt48-32.bmp
+SHA-256-Digest: ZbZjXTxyzyYTaCRkgFmsJB+ptMBa749aOdjcNn/1IM4=
+
+Name: plugin.properties
+SHA-256-Digest: qgt2/2czFPz3GgvYB6BpJgOt2lziDRhuafFGia7d8eQ=
+
+Name: icons/icon.ico
+SHA-256-Digest: 2rgTvLhphvqcU/MtnL2AELow/qMRSsuk42ABrFfyzLs=
+
+Name: icons/papyrusrt128.png
+SHA-256-Digest: CKqgx4upZINxQs+6ou0BvmXXZw8oDLgBnfaavdY1YQQ=
+
+Name: icons/papyrusrt32.png
+SHA-256-Digest: YFh+UVpytgKQpRzUeg8lKkVShJcv87mV9LDY3ZgtkUQ=
+
+Name: icons/papyrusrt48-8.bmp
+SHA-256-Digest: AV6yw0mkMj5mcgZgbiYY5e/QNeF+cN61uxmVSowxboU=
+
+Name: META-INF/maven/org.eclipse.papyrusrt/org.eclipse.papyrusrt.rcp/p
+ om.xml
+SHA-256-Digest: 3Kp2FCuX6wxqkacw9J/F3NwYRqvncKDXKPOhhYMmbfs=
+
+Name: icons/papyrusrt32-32.bmp
+SHA-256-Digest: /xDw/pF6vOCY+vFaGUp5m+hwQ/8H52ETFRGle+hOsx8=
+
+Name: plugin_customization.ini
+SHA-256-Digest: 8TLfeu7uY7iG6xxquZNiVOVcN7FH2NeqF9aQxyGQtjo=
+
+Name: icons/papyrusrt16-32.bmp
+SHA-256-Digest: dlO8KcOLcugk2bPU8lNA085VjXvR18Nt3c+OtlmqwEA=
+
+Name: icons/papyrusrt32-8.bmp
+SHA-256-Digest: +ZGIGe5/fgZ68Q4PnWp6iknhAH7fJncELfpg26C71nY=
+
+Name: META-INF/maven/org.eclipse.papyrusrt/org.eclipse.papyrusrt.rcp/p
+ om.properties
+SHA-256-Digest: r1SFyITv7X9OwQPxv9t+OXLXLw5UHulSLv0VpvauazQ=
+
+Name: icons/papyrusrt_lg.png
+SHA-256-Digest: 7ixtIWQ9Pd6eEIeBHtSLCNq7ovtXrxLwdILew6CjlJA=
+
+Name: icons/papyrusrt16.png
+SHA-256-Digest: INQyTZrhHXUPrs6F+0pUyyyv1DySB+Atk24bnPI7ZcA=
+
+Name: icons/papyrusrt256-32.bmp
+SHA-256-Digest: ykJuRff2iwWKNGXvWD0HZ9rx7eE4caQ1h1hGSrYj62Q=
+
+Name: icons/icon.icns
+SHA-256-Digest: OPT5rlDhnZnjd9NofYBxn5K6SXJVBCCIqBNxmUFsJr8=
+
+Name: icons/icon.xpm
+SHA-256-Digest: ZAOW/bjOzESWOJO64XrHQ4J75/RfWO+HBnf29TnVjCY=
+
+Name: icons/papyrusrt.svg
+SHA-256-Digest: oZR97DoDyH0lSNYDmr5nB4nAW9lu3j3SDHCV59u54JE=
+
+Name: icons/papyrusrt64.png
+SHA-256-Digest: fJayMf7qsj6aeZ3V++gM60Q5+k59Vv8lnQNkN1uaLI8=
+

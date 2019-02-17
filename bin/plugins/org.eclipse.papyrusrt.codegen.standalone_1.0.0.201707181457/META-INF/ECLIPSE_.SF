@@ -1,0 +1,43 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: jnzdqLj1+RbSE3MTOAEj5i9XIy/Cg
+ jAEVPlEaqbwnrc=
+SHA-256-Digest-Manifest: KCPjEecRw72DJFAm8aW1ViMvtpd2Y0fXU6TNcYAcsHc=
+Created-By: 1.8.0_121 (Oracle Corporation)
+
+Name: about.html
+SHA-256-Digest: qdZIx+V7ZfkOzOmJTrkZhTCh2e/p9d+drIT6FIVu8BU=
+
+Name: org/eclipse/papyrusrt/codegen/standalone/StandaloneUMLRTCodeGenI
+ njectionModule.class
+SHA-256-Digest: OhOhoUJ4BrBoG91eZJptpPvGvvCBQOuRhdvuEKDcKLA=
+
+Name: org/eclipse/papyrusrt/codegen/standalone/internal/StandaloneGene
+ ratorManager.class
+SHA-256-Digest: NPozEGMSjDL79fa8WQKp6UsJzhie9DYm+mnUBBgWw2A=
+
+Name: META-INF/maven/org.eclipse.papyrusrt/org.eclipse.papyrusrt.codeg
+ en.standalone/pom.xml
+SHA-256-Digest: BnVaio9gFiyxZE20VDTprAOLFUjQmqSSMOcf48+WamA=
+
+Name: org/eclipse/papyrusrt/codegen/standalone/StandaloneUMLRT2CppCode
+ Generator.class
+SHA-256-Digest: WgDZH8QtjwDeLNWjN18iaTxpkTRRndhaBUJcs6qYjp4=
+
+Name: org/eclipse/papyrusrt/codegen/standalone/StandaloneUMLRTCodeGene
+ rator.class
+SHA-256-Digest: 1JUqXD2Mim6SjwGdjp6M6m56676OcElBfkOjpD2PVKI=
+
+Name: plugin.properties
+SHA-256-Digest: zWSLe1BbjXWvqi7xKdl7gpetj5ngzB9UrJnKF6SBbA8=
+
+Name: umlrtgen.sh
+SHA-256-Digest: HMYKb12ZJJrWTgMwRlqZ15lc3X/c14YZ0Plt9W5wY90=
+
+Name: META-INF/maven/org.eclipse.papyrusrt/org.eclipse.papyrusrt.codeg
+ en.standalone/pom.properties
+SHA-256-Digest: JJJqZcuihCHy5GywP3m9U13ESYY245FJ3MkIQMybJRM=
+
+Name: org/eclipse/papyrusrt/codegen/standalone/StandaloneUMLRT2CppCode
+ Generator$RecursiveFileRemover.class
+SHA-256-Digest: pwqILETDV/3l7M7KzqxlV3byWuTDKDuKVeDZo7HvpjA=
+

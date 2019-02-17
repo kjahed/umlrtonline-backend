@@ -1,0 +1,427 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.papyrusrt.rts;singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: genie.papyrus-rt
+Require-Bundle: org.eclipse.core.runtime;bundle-version="3.10.0",org.e
+ clipse.gmf.runtime.emf.core;bundle-version="1.7.0",org.eclipse.ui;bun
+ dle-version="[3.107.0,4.0.0)"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Bundle-Version: 1.0.0.201707181457
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_121
+Eclipse-BundleShape: dir
+
+Name: umlrts/os/linux/include/osnotify.hh
+SHA-256-Digest: sM4PR7TLrhkh15OwFbTqY0HawvgVNvNQyGK/+zxast8=
+
+Name: umlrts/util/include/basedebugtype.hh
+SHA-256-Digest: e3O6Ff9xmWRxldWsolDuDDruttQMlqya4v4pgyl1tBo=
+
+Name: umlrts/os/stub/basedebug.cc
+SHA-256-Digest: 4cuu7+N0ldacS1v6K331z2k9Bvu59Vdu1lVtP9fA12M=
+
+Name: umlrts/umlrt/umlrthashmap.cc
+SHA-256-Digest: riefsGXKZ6OQpiG5OxNuGQjFUslIk1yC+3fb2ZxUxZI=
+
+Name: umlrts/include/umlrtmessagequeue.hh
+SHA-256-Digest: p6pzUHcubwOYP/iphEdvS6+4A5U7Yd/GATvAr0RRdZo=
+
+Name: umlrts/include/umlrtmessage.hh
+SHA-256-Digest: OB63MAZkQW7mTDtleuQi3WWWiwOQe9XCseVpNqRrcZI=
+
+Name: umlrts/umlrt/umlrtmessagepool.cc
+SHA-256-Digest: 9ImU9DF1QRaSEkFk+j0G2FvPWfknYC7ye1hSp9aFidM=
+
+Name: umlrts/build/buildtools/config.cmake
+SHA-256-Digest: 7qezTWauyJAJ5IeC642h8avSLTHwyUaTsPiDnUOXTWY=
+
+Name: umlrts/include/umlrtcapsuleclass.hh
+SHA-256-Digest: xGxZ1PgQfgDoVglqVZqDD3iZWKx+FOv5cNqsVZwEm0c=
+
+Name: umlrts/build/os/linux/os.mk
+SHA-256-Digest: Ol5MTJILOL7LM5SqdJfy9zkKFHJVeVHSLyhs1wR8QEA=
+
+Name: umlrts/umlrt/umlrtcapsuletocontrollermap.cc
+SHA-256-Digest: rFciWwSMOVnjURbxdDuzMVRhPUknl3fqLLiMbBWu/a4=
+
+Name: umlrts/include/umlrtprotocol.hh
+SHA-256-Digest: 9Mls/m2fDwWpSQN86UU9VbhPbDVHrCyINEkG67sezQA=
+
+Name: umlrts/build/buildtools/x86-VisualC++-12.0/buildtools.mk
+SHA-256-Digest: mQLf2gv++0Sh9pBvVTncQWmRgQJFAFV9Q5WB0P+1bE0=
+
+Name: umlrts/build/buildtools/x86-gcc-4.6.3/buildtools.mk
+SHA-256-Digest: kXUbQGSVuy2xdAr6yxFstW4crRJ/DdvZDEvaeB4gT3I=
+
+Name: umlrts/os/linux/osnotify.cc
+SHA-256-Digest: 7pGK4xW82RXNsORtfp26URxTY0jMDP+Y4K3TXzcwezI=
+
+Name: umlrts/umlrt/umlrtlogprotocol.cc
+SHA-256-Digest: 9VvhQLcyLH/HG4rN5+ORr0YrOHEcRPY0BVFyfaj0l+U=
+
+Name: umlrts/include/umlrtframeprotocol.hh
+SHA-256-Digest: BVNZl0xBscxQUIioBgC79XhO4zUK28cCVgvc8EmubsE=
+
+Name: umlrts/umlrt/umlrtcapsule.cc
+SHA-256-Digest: qbvCBhJxa1mIHkrfQ7BRGbrVeZHyVhQr3Eg6szC+crk=
+
+Name: META-INF/maven/org.eclipse.papyrusrt/org.eclipse.papyrusrt.rts/p
+ om.properties
+SHA-256-Digest: jn0FIxLT3GIB83c/Z4UvAbHmgHpNUDGXq9fYimNXUHQ=
+
+Name: umlrts/include/umlrttimerid.hh
+SHA-256-Digest: Lv12UoFrE+SjBiaafJpWHqZxbQsytvk6TKlH5tft1ds=
+
+Name: umlrts/umlrt/umlrtframeservice.cc
+SHA-256-Digest: n05UOiHhi/k1wWf4PSPKtLf/cKvDsGR93TsQpLZEL0g=
+
+Name: umlrts/lib/linux.x86-gcc-4.6.3/librts.a
+SHA-256-Digest: nMvcpVzNdtrctTcSVduNDTHCyrxBX1VUWLrp3MpERuY=
+
+Name: umlrts/build/buildtools/linux/config.cmake
+SHA-256-Digest: Sy2vyN8Qjta35xGQ1w5x3gHLKVVBqo4VbpWdtDSDPQw=
+
+Name: umlrts/os/windows/include/osnotify.hh
+SHA-256-Digest: /HooQP6zo/UUuiNcA5sjc3Tru6KWVTAWUcJL13BKoKU=
+
+Name: umlrts/include/umlrtslot.hh
+SHA-256-Digest: KiL1ugFWMiMgAfjxLW88/Ia8577vfDQhbQF4UgjTa3o=
+
+Name: umlrts/umlrt/umlrtobjectclass.cc
+SHA-256-Digest: aWMaxePgstxNoWTSDd3ozCR1ZFqL04J64emsRm22Oaw=
+
+Name: umlrts/include/umlrtinoutsignal.hh
+SHA-256-Digest: zOYQGA3LQ1BKQiKghrkTU0WzEohf4rWiLFUwHWZgeJo=
+
+Name: umlrts/include/umlrtlogprotocol.hh
+SHA-256-Digest: 5fu/QbioVUSEPZ4qET1YTv4FkHq6RpgOLGinHzT8cEo=
+
+Name: umlrts/os/windows/osbasicthread.cc
+SHA-256-Digest: ATc+5cwSs4fkAsBzTNBTeG8LV/XYWhW/7ZEdC2lDcBQ=
+
+Name: umlrts/umlrt/umlrtprioritymessagequeue.cc
+SHA-256-Digest: cR4X1jmuy7AU907DFBf4f3leQkp+VNeT2h6n/dypGOY=
+
+Name: umlrts/include/umlrtmain.hh
+SHA-256-Digest: SbI3bvLgEfSjNA9vrt/LqCh/xqG5hwwBSCMGgCTQYF8=
+
+Name: umlrts/include/umlrtprioritymessagequeue.hh
+SHA-256-Digest: +S0Gj3fm0/qlhq+DlTCDCZMx/l8U1RnsGq6jyhDhD9o=
+
+Name: umlrts/build/rtslib.cmake
+SHA-256-Digest: z5CXIEI/eabnoGj5ISAj+AN4nSYivxhmBkkQuXPWujs=
+
+Name: umlrts/umlrt/umlrtsignalelement.cc
+SHA-256-Digest: BVeAwNf2EUrLVU1n289wlzz+Zr/+RC+4EDcUHVgk3/I=
+
+Name: umlrts/os/linux/osmutex.cc
+SHA-256-Digest: X5EIZPSlXMtlAAhCapfGJ8hWntSIO6ngoZvhIXeM7Vg=
+
+Name: umlrts/build/os/linux/files.cmake
+SHA-256-Digest: UMHsywacHpFIbLnTL5PPvbxrnP2/C1lU2fohuzoP/iI=
+
+Name: umlrts/include/umlrtpriority.hh
+SHA-256-Digest: 8jpHrFGroxm4KTxZCeB1TB4fUu5sCFR/pvOfufyTIlI=
+
+Name: umlrts/build/host/host.mk
+SHA-256-Digest: TaBQZt864E9uKcsSzx19Z9FyzCzLVJlYFGJAuUbbJe8=
+
+Name: umlrts/os/linux/include/osutil.hh
+SHA-256-Digest: QHzrKDODB1ttMaV7jcd/ZNkxJYRBUwQaSGyTdnhSk+c=
+
+Name: umlrts/os/windows/include/osselect.hh
+SHA-256-Digest: NBd5z+QwKu6wEHRHbjdqxZ97nkB4ufmyceoWBr75Bho=
+
+Name: umlrts/umlrt/umlrtprotocol.cc
+SHA-256-Digest: TVH1dQqSRgYRHxTYcy/Ft2s4fZDE0aw8hcZHzDdnc90=
+
+Name: umlrts/umlrt/umlrtbasicthread.cc
+SHA-256-Digest: i/5DjVFAoOWk/bQD4SLjRh6CtIAxA/LtPaQJlo1JzIY=
+
+Name: umlrts/umlrt/umlrtmaintargetshutdown.cc
+SHA-256-Digest: XEFuv4iyTqU8ixjS51Z74L0AgGFgoqFgSP8UIyl96UA=
+
+Name: umlrts/include/umlrtsignalelement.hh
+SHA-256-Digest: MtdMeFi8THzyiL1HcluhZZC7G2h/qs5AvQHKD62KKXo=
+
+Name: umlrts/umlrt/umlrtsignal.cc
+SHA-256-Digest: 8JOskKBiSlsL1xRQ6NPVTj6FUR7U1Q7ATw82XumrJT8=
+
+Name: umlrts/include/umlrtsignalelementpool.hh
+SHA-256-Digest: n7MtinbUIKSN7z9Tq2aVKQ1CWuPUhDZIuEeXsDmzDRM=
+
+Name: umlrts/umlrt/umlrttimespec.cc
+SHA-256-Digest: JKKO8PFF8N51ZMLw8I0i4cF86MqFNW6ApFkCfzE8QwY=
+
+Name: META-INF/maven/org.eclipse.papyrusrt/org.eclipse.papyrusrt.rts/p
+ om.xml
+SHA-256-Digest: 1Icn0igRyYusv8PHFhx8mHcI6lyrl2Iu86ZUVdf9+hc=
+
+Name: umlrts/umlrt/umlrtoutsignal.cc
+SHA-256-Digest: ycQkFFpEp9qoXBUBpRUIeX+E+E75s+ra2oL/E/5HI8Y=
+
+Name: umlrts/umlrt/umlrttimerpool.cc
+SHA-256-Digest: oWNHShEeW+hOaI/GuEawHF8KWhU00z1X+FV76hnpal4=
+
+Name: umlrts/include/umlrtcapsuletocontrollermap.hh
+SHA-256-Digest: SiOzAAB/lKaGPiQyxVCaf7t3PCqP6W+S94c4kgXNnqQ=
+
+Name: umlrts/include/umlrtoutsignal.hh
+SHA-256-Digest: YYevNZd/jTkMw6eQmgK+W5PYKRf3LmI9r8FOmKMxKGE=
+
+Name: umlrts/build/os/files.cmake
+SHA-256-Digest: +wM0gDviSTTh5o+OH3UzEaf00zey0EGCE+SsN61KfT4=
+
+Name: umlrts/build/os/windows/os.mk
+SHA-256-Digest: 686/93dh6WiO3Hu05KIlwouuaT2cBKF5gRxgfvYSmLk=
+
+Name: umlrts/os/linux/ostime.cc
+SHA-256-Digest: JcqYAnmkJSlmBWrnpDcuAp9CClxg/IXUYzHWLImvA/Q=
+
+Name: umlrts/include/umlrtobjectclassgeneric.hh
+SHA-256-Digest: u9O1Qp9K1ar8Rz0r67B6BG6e/XfUAIKufKrUEdcMpPg=
+
+Name: umlrts/include/umlrtuserconfig.hh
+SHA-256-Digest: QK7PTkOQ0ZckgsrWD50AHr5X+ag6STmfLivjNjtVMz8=
+
+Name: umlrts/os/windows/osnotify.cc
+SHA-256-Digest: SCDqrbkh+PjGI5r+LZM/BCPzfPj69srG5BuX2Wc+l6M=
+
+Name: umlrts/os/linux/ostimespec.cc
+SHA-256-Digest: g3vtazTKg/tX6COOOzdhqQXf+TLj8eib/7m5rMnACdQ=
+
+Name: umlrts/umlrt/umlrtapi.cc
+SHA-256-Digest: Sr+WneMlOiIHC1KN8fuJYPA/A6yUKqp1B2uhAzvyOqc=
+
+Name: umlrts/build/os/windows/files.cmake
+SHA-256-Digest: oECH74JKsrFPIB00awiG7pshldXcAveWvQ/6/QxYM+k=
+
+Name: umlrts/build/buildtools/darwin/config.cmake
+SHA-256-Digest: L1EXEJ7aILoPmnHQuUMgtwJHtd+0ln48UtEc8G0ykpc=
+
+Name: umlrts/include/umlrtsignal.hh
+SHA-256-Digest: ByAVUPTpc4QJ7h73Gcp5ujim9on7tfTyaSwRpmVznd0=
+
+Name: umlrts/umlrt/umlrttimerid.cc
+SHA-256-Digest: OAk3JeHKGTqr2LA+XoXGF2NP1zoKqCuugkC1fDB4PXc=
+
+Name: umlrts/umlrt/umlrtmaintargetstartup.cc
+SHA-256-Digest: lktkAOmSXRig3LkSapqYQFiaZbsahGMfWBKw0COSt1I=
+
+Name: umlrts/include/umlrtcommsportfarend.hh
+SHA-256-Digest: 8PJEz8Rkmbx64RS74wL1CO8RquBRaeFtL92ioc0l4p8=
+
+Name: umlrts/include/umlrtcapsulepart.hh
+SHA-256-Digest: 8uh5Z81HRrUfug69YwH/udFx0Ri4a2T1PeIPM/5Z91I=
+
+Name: umlrts/umlrt/umlrtmainloop.cc
+SHA-256-Digest: gdaRbtX3QoKzzT+LI11z94E23aUBP+4y7CZHDMID1k4=
+
+Name: umlrts/include/umlrtcapsulerole.hh
+SHA-256-Digest: rVSmrmnlAqv/5fDGG2hNC8RqshELOiMSExDl0de1Ue4=
+
+Name: umlrts/include/umlrtcapsuleid.hh
+SHA-256-Digest: OG48kcCMQjw3LZl+MF0eGSAPnmU+yKhABxcF6QYTXJs=
+
+Name: umlrts/os/windows/osmutex.cc
+SHA-256-Digest: 5RaF9mo6FO2eHnI4HUP/Y70AwoxDh4KpPLIsrkvBtsw=
+
+Name: umlrts/umlrt/umlrtmain.cc
+SHA-256-Digest: oALiGJAMv4vRDb1Hp3U49PHPDFDHhzWwoF1aPr6Jqq8=
+
+Name: umlrts/include/umlrtrtsinterface.hh
+SHA-256-Digest: 5wKi+KVd5BAFT6aT/8boT0BmLGAh7bqxD0Achi9k7No=
+
+Name: umlrts/include/umlrtsemaphore.hh
+SHA-256-Digest: 0sRAj6sh1r4pyhE1LJdfYiNIqR5qrNRM8EyXkH7zP9g=
+
+Name: umlrts/include/umlrtframeservice.hh
+SHA-256-Digest: uO+RRTHwNa5KkV/orjW79H6FJNG9qGMErW80KX5tJV4=
+
+Name: umlrts/include/umlrtguard.hh
+SHA-256-Digest: bmAhab1x35SqLkhHYfqPGSNcQ/5scaANvCy0pSbouKo=
+
+Name: umlrts/util/basedebug.cc
+SHA-256-Digest: NHQw7IRX1nYhCzp8dAEN6fdsMYqadoLqmwjsWJ4rS1Y=
+
+Name: umlrts/util/include/basefatal.hh
+SHA-256-Digest: UlLcPlvQgtKn+YuWh4wponCFVzidAR69jlkJg/u22js=
+
+Name: umlrts/include/umlrtcommsport.hh
+SHA-256-Digest: YJ2UILC0hEPYEGiqFfADcqDNGNbFB5/N1f3pyeBxiVw=
+
+Name: umlrts/umlrt/umlrtcapsuleid.cc
+SHA-256-Digest: S0w3LqhmcEMO2WoW65IFZTaeXiXK36w6pORTIJyKyn4=
+
+Name: umlrts/include/umlrttimer.hh
+SHA-256-Digest: C41TcTBmcoiO1w24e0/EnB38r7JzHbRisze3IOgLNxY=
+
+Name: umlrts/include/umlrtobjectclass.hh
+SHA-256-Digest: B+DaWiQY4RnLRekjqB0KJ+fYgeP/P1voAgOxUmb5tYY=
+
+Name: umlrts/umlrt/umlrtsignalelementpool.cc
+SHA-256-Digest: vniTdZyZGovc+BpX5DtvrtUQSbL0YMlfi+JY8imGv/k=
+
+Name: umlrts/include/umlrtpool.hh
+SHA-256-Digest: 2LJu7brfp4oO6rZsRD/j1u+fvs52Gab9CYZR6HTm//I=
+
+Name: umlrts/include/umlrtrtsinterfaceumlrt.hh
+SHA-256-Digest: 6864bVcwb6qBFhIri3/FD34fFCiCUpljPAsMeeFKyA8=
+
+Name: plugin.properties
+SHA-256-Digest: JIn3wpctX8IIG0LtrEOxZxh4KZKis/lj1MY4drUZd+E=
+
+Name: umlrts/include/umlrttimerprotocol.hh
+SHA-256-Digest: N/m1rTCkxMZskaeLDyqABKo6NV5uWgz+YIr64Jupivo=
+
+Name: umlrts/build/os/default.mk
+SHA-256-Digest: aWrHz8TyVtuSbVkLfu0Ls2SqxDfYvPwhQ2J5Q/WKLVw=
+
+Name: umlrts/include/umlrtmutex.hh
+SHA-256-Digest: TjbN+7R92CeKNFrG1w74vmf5IgSkM1k1/Yx6QQ16BCY=
+
+Name: umlrts/build/buildtools/windows/config.cmake
+SHA-256-Digest: nc4fVlJcrP08HC/a/HfocfSta5SCJkSb3RljtH5G4EM=
+
+Name: umlrts/include/umlrttimerpool.hh
+SHA-256-Digest: eF4OYKSuToGfFbS/gTojMUj+E0Tofhl6sUyoQ/MXGRI=
+
+Name: umlrts/os/windows/ostimespec.cc
+SHA-256-Digest: QY2/CddvirqlR9kOK9ndUaq1cd2VjU9X4PWKpI4IuIc=
+
+Name: umlrts/umlrt/umlrtinsignal.cc
+SHA-256-Digest: I+pNDbdW8Lvte9hv7UuoMVA0Q+WtJNtiCPbE122ozoU=
+
+Name: umlrts/util/basefatal.cc
+SHA-256-Digest: WKUfaBFoMaOaiLGgaFcSfSePXRdEW4IAF9NiA8gvs5o=
+
+Name: umlrts/os/linux/ossemaphore.cc
+SHA-256-Digest: hc8IbfZBYYBR/bqsQDH6tjPgtVpndeRTf69iS4zuCNA=
+
+Name: umlrts/Makefile
+SHA-256-Digest: pWfRhS/8xfh39vduONTsdzRj58KaMXeIasHizgs7CyM=
+
+Name: umlrts/umlrt/src/umlrtgetopt.cc
+SHA-256-Digest: XNw9jVncB8mdgPzJbxqaVX3gyxYhUqwKacPXvVRk5KE=
+
+Name: umlrts/umlrt/umlrtmessagequeue.cc
+SHA-256-Digest: oo7abZJB/O8hpBbSt5BBVhZdQHHFoe3W+flFQH5f0dI=
+
+Name: umlrts/os/linux/include/ostime.hh
+SHA-256-Digest: jiy9SZj4P7NA5BlJKiyN1Od28DbYVBKztbD9vpwaTlY=
+
+Name: umlrts/umlrt/umlrtframeprotocol.cc
+SHA-256-Digest: Z+jUv9VNmoTO85VAodLRLmFuYxiaG8TTAxNxS3M7iME=
+
+Name: umlrts/os/linux/osbasicthread.cc
+SHA-256-Digest: BN187Wj1VlBlSIVnmsi60L5dqwjbZqX/U1qLE7sxF1I=
+
+Name: umlrts/build/config.cmake
+SHA-256-Digest: pjo+4MQc/JT4MsfT40g2fadEThvYngZgRovMqJc+Mec=
+
+Name: umlrts/build/buildtools/x86-gcc-4.6.3-debug/buildtools.mk
+SHA-256-Digest: DUZb/8i2CT+1vfHE/pmyObtdMco0oA8tRlW8MFVT5Z4=
+
+Name: umlrts/include/umlrtmessagepool.hh
+SHA-256-Digest: uOIoVQYSKJZzyWlw4+F1vn/oPLWrlCR/XqxIw7ijjQY=
+
+Name: umlrts/CMakeLists.txt
+SHA-256-Digest: p9TItCIuRpDUQMihrOGnlXYXPUYIwjVpD74n7iYJIxU=
+
+Name: umlrts/umlrt/umlrtcontroller.cc
+SHA-256-Digest: 6OiyvqqcsaH74XFhdHfQXDDinZhXop0JScEnTWNhG9k=
+
+Name: umlrts/umlrt/umlrtcommsport.cc
+SHA-256-Digest: YIjptKFiXjSvKJkuUrG0O5zuEp0I3yw8hU4wiWVWPc4=
+
+Name: umlrts/include/umlrtcapsule.hh
+SHA-256-Digest: G/hsKjxzYsMPCvrM7cerfr9CosFoZMGEoqS6Nzlsdl4=
+
+Name: umlrts/include/umlrtqueue.hh
+SHA-256-Digest: SUBtIdwN1SUWv16TdGWHI8SnjBitEPF1s6lC3cNOFmM=
+
+Name: umlrts/include/umlrtqueueelement.hh
+SHA-256-Digest: z4QowYbxXhTBQIyoZFyD3wQxvAsEvq8VWveQS1zezAk=
+
+Name: umlrts/include/umlrtinsignal.hh
+SHA-256-Digest: OuMbZiLBOxA9e6O5xTrLk5viDjUUGkBUcMDZGmSUSbk=
+
+Name: umlrts/include/umlrtcontroller.hh
+SHA-256-Digest: 7oDv7Uuot9zmegzlqmCjMk3Yr4uwd99ADT3AHAm7v5s=
+
+Name: umlrts/include/umlrthashmap.hh
+SHA-256-Digest: x2Hu92MbxV0QDr1zdjmUFIGzb0r5bZ9BHujgwfNg1CU=
+
+Name: umlrts/umlrt/umlrtinoutsignal.cc
+SHA-256-Digest: 6/+SQZC/UX0uptdySwGXJ4TjfQyvXlgz/3xHWhzpMN0=
+
+Name: umlrts/os/windows/ossemaphore.cc
+SHA-256-Digest: Cj37fchjRtySwnR1FBJ9MiElaGCWkpgNsX8PAWoYWnU=
+
+Name: umlrts/include/umlrtapi.hh
+SHA-256-Digest: IYiFeWKhT6ohxSnTxYUcp3O8K/gqoCdk36MOeLkC2No=
+
+Name: umlrts/umlrt/umlrttimerqueue.cc
+SHA-256-Digest: QwAMg7kZnPHThh+zF9APLaUF6WjfyMl7qLpi+pvNoEo=
+
+Name: umlrts/os/windows/include/osutil.hh
+SHA-256-Digest: /ghOolTEfWd9PR2GGf5800D6p1CFPL5DMLG0HsdhWfk=
+
+Name: umlrts/os/windows/ostime.cc
+SHA-256-Digest: q9taP6AKh6G+N13xORJLxbC4FbPl7MlpB6+Z0/OLXc8=
+
+Name: umlrts/build/buildenv.cmake
+SHA-256-Digest: fgueTV2IOsckwQM2d22CVGnRNyhXBw/+2nBG/1tW8Qo=
+
+Name: about.html
+SHA-256-Digest: ZYczHLHHJbJ2GSLe/MBOpU/zRznwNG9X6G0P5BecAYs=
+
+Name: umlrts/include/umlrttimerqueue.hh
+SHA-256-Digest: LZWy4nKQ3nzEh6TKCHtx1w0jBFCYkQzkn2Nr57pQrMA=
+
+Name: umlrts/include/umlrttimespec.hh
+SHA-256-Digest: 9zuOzns5GuFlon8bEQA/74zquOyojLCYHtzcEUzJPZo=
+
+Name: umlrts/umlrt/umlrtpool.cc
+SHA-256-Digest: ZXk68BdKmbsAUP2xtdjy7HeB7IVYBFNRg/f2f9q8+T8=
+
+Name: umlrts/util/include/basedebug.hh
+SHA-256-Digest: zGUD6tt8tBO0ppkG9S0QUDTSdzdTzOmnTwRM5rkp9xI=
+
+Name: umlrts/include/umlrtcommsportrole.hh
+SHA-256-Digest: ekB4nG/qbE85h3FC2wc06MY9+//o+PyzhJGc0WPXpd4=
+
+Name: umlrts/os/linux/include/osselect.hh
+SHA-256-Digest: k9DDtWsdzDzQbLJteRcgHqrwLFft8RB5TBsp015hMAs=
+
+Name: umlrts/umlrt/umlrtrtsinterfaceumlrt.cc
+SHA-256-Digest: n6PnjSyZjouQ0EK0zwK7AxqKteUQAP/BrSOfYSCnEWk=
+
+Name: umlrts/umlrt/umlrttimerprotocol.cc
+SHA-256-Digest: 1gXDTaEXoZJOHhZTLS77ior93m/etrnF7w0GmKAeBaY=
+
+Name: umlrts/umlrt/umlrtmessage.cc
+SHA-256-Digest: P5ih1QNqFhq9oeICdjtYersemz1r2UXBjFPF67Rzz6k=
+
+Name: umlrts/umlrt/src/include/umlrtgetopt.hh
+SHA-256-Digest: 9v3NG5I376qN1QZpRf2eXi2aaedbuiBbVhbhMOGTaqs=
+
+Name: umlrts/script/git-showid.sh
+SHA-256-Digest: NPadeRYUB4eFTx1zmF9wDBuPepQrvnZnH5R/rtYd3y8=
+
+Name: umlrts/os/windows/include/ostime.hh
+SHA-256-Digest: aplUBbhsugraJzDY2Eamec9cJzMSMswsymQxzV9SZBg=
+
+Name: umlrts/include/umlrtbasicthread.hh
+SHA-256-Digest: Zl0w//WjdSwuQjXZcmBgK/Jl6MMsb6sepOds17/qCWQ=
+
+Name: umlrts/include/umlrtcontrollercommand.hh
+SHA-256-Digest: ZJEkqdSb2ltiLLha9a7Uw8qcMQx3+54rIJAxy81gzVM=
+
+Name: umlrts/umlrt/umlrtqueue.cc
+SHA-256-Digest: cNeTecbkkvdSZDW+sXrhXfR/CHnrma5dnhLL09Py0Kg=
+

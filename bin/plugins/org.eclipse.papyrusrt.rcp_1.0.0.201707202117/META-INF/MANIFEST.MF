@@ -1,0 +1,93 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.papyrusrt.rcp;singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: genie.papyrus-rt
+Require-Bundle: org.eclipse.e4.ui.css.swt.theme
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: %pluginProvider
+Bundle-Name: %pluginName
+Bundle-Version: 1.0.0.201707202117
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_121
+Eclipse-BundleShape: dir
+
+Name: plugin.xml
+SHA-256-Digest: g7LyvBgXzNAc0gT32WQry783HhNFfaEaLS05EKAG7+o=
+
+Name: icons/papyrusrt16-8.bmp
+SHA-256-Digest: D1TmTWPhdSUypiyKi+Pzt+oVwKN857+gVb81sDqL1IY=
+
+Name: splash.bmp
+SHA-256-Digest: /CLlNIwEmU7eITSg2t962uN8NnorugQUIDjHzKGAOHA=
+
+Name: pom.xml
+SHA-256-Digest: KGQ5U1AIHMj6ySXcFIV19UFDI5vpkL/sSb7B96TJpbU=
+
+Name: icons/papyrusrt48.png
+SHA-256-Digest: q/8jzo3FxU9wAXp2xngup1fs3RsKY6WehIuLuBy8Sfo=
+
+Name: icons/papyrusrt256.png
+SHA-256-Digest: CTALf0A/DY0x50CINLwMvGvPtQ8aaqRFm5qUmMld3kc=
+
+Name: icons/papyrusrt48-32.bmp
+SHA-256-Digest: poz0BGMxLFbuU1vNOX1Ylqgpw9Vjg5i0SS1WSVyaYg8=
+
+Name: plugin.properties
+SHA-256-Digest: BRUe+p1UyACQqmmhheld4Rbkkcv1AlrZbmT1x066GmY=
+
+Name: icons/icon.ico
+SHA-256-Digest: 7fSuyCn4nMpTJuF15s7USf60ymvmr+lByVTvpwdBf3E=
+
+Name: icons/papyrusrt128.png
+SHA-256-Digest: pVIdbqyCj8uBVMbXkdnoqBDsboS8bVvOSzB/PqH8oQw=
+
+Name: icons/papyrusrt32.png
+SHA-256-Digest: G6G89botMFZH2Ovh4eg0e0J+9h2/lc8F+OCIrAoYLlU=
+
+Name: icons/papyrusrt48-8.bmp
+SHA-256-Digest: l5vArecfBhzs8dEf4Z+4uzAsAAlJT3fTXCd4u82mIUc=
+
+Name: META-INF/maven/org.eclipse.papyrusrt/org.eclipse.papyrusrt.rcp/p
+ om.xml
+SHA-256-Digest: KGQ5U1AIHMj6ySXcFIV19UFDI5vpkL/sSb7B96TJpbU=
+
+Name: icons/papyrusrt32-32.bmp
+SHA-256-Digest: tGI54aph4+rvA/83WgwFXYa2q/V0z4RFPVIjpsEDgWI=
+
+Name: plugin_customization.ini
+SHA-256-Digest: TTZ0Sf/cqlcqYbwBxABgJFplEF9zy6GhPx1dGoc2HYw=
+
+Name: icons/papyrusrt16-32.bmp
+SHA-256-Digest: E9Mu8VYNC9AuJlOC1ZVibpMLLuDbb8+RygIZzBrv3lU=
+
+Name: icons/papyrusrt32-8.bmp
+SHA-256-Digest: cN8M3ienqidscC2Aj1ymHHoPzmKBGUk/ZIJb7wYIwFA=
+
+Name: META-INF/maven/org.eclipse.papyrusrt/org.eclipse.papyrusrt.rcp/p
+ om.properties
+SHA-256-Digest: PHDsnFIKiVNbWU11IjywM3IpiNRauEFWJE74O2jWbPU=
+
+Name: icons/papyrusrt_lg.png
+SHA-256-Digest: GUU1Lo46jWv+mmpGw3OqqZlsnLcYOgbb8nHfNiDvmhI=
+
+Name: icons/papyrusrt16.png
+SHA-256-Digest: oBiuWWZ+i1sJQOaYaaNKJskf+68I7gjSAxFzcQlpUK8=
+
+Name: icons/papyrusrt256-32.bmp
+SHA-256-Digest: yQEoNTp3qZZBAAFbgXbRA4UXv+i6CGFRDkRmvXdFqc8=
+
+Name: icons/icon.icns
+SHA-256-Digest: MofRsF/wBnvt1br0QDL9SohZf2Ubg3RUtVx6T2Sl83c=
+
+Name: icons/icon.xpm
+SHA-256-Digest: iRHM/LDWQAwitiQAERl32Mm3h/1Mv94MIDZ6CZX4+2I=
+
+Name: icons/papyrusrt.svg
+SHA-256-Digest: iOaEuZlo8HG5BRrtUaZIQDEHCMaM0icxX1RKp88CoQ8=
+
+Name: icons/papyrusrt64.png
+SHA-256-Digest: nVFmTedSk6F5Hzu6dKQUgndL5/QebMGRStgaLQBm5zQ=
+
