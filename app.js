@@ -21,6 +21,18 @@ const port = 3000
 
 const upload = multer( { dest: 'uploads/' } )
 
+if (!fs.existsSync('uploads')){
+  fs.mkdirSync('uploads');
+}
+
+if (!fs.existsSync('workspaces')){
+  fs.mkdirSync('workspaces');
+}
+
+if (!fs.existsSync('generated')){
+  fs.mkdirSync('generated');
+}
+
 app.post('/upload', upload.single('file'), function(req, res, next) {
   const workspaceID = req.file.filename
   const workspace = 'workspaces/' + workspaceID ;
@@ -185,4 +197,4 @@ app.ws('/execute/:workspaceID/:args', function(ws, req) {
     rimraf(workspace, function(){});
   });      
 });
-app.listen(port, () => console.log(`Example app listening on port ${port}!`))
+app.listen(port, () => console.log(`UML-RT Executor listening on port ${port}!`))
