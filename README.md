@@ -18,6 +18,7 @@ sudo apt-get update && sudo apt-get install npm docker.io openjdk-8-jdk-headless
 1- Make sure your user belongs to the 'docker' group
 ```
 sudo usermod -a -G docker <YOUR_USERNAME>
+# IMPORTANT: make sure to logout and login again
 ```
 2- Grab the UML-RT execution sandbox docker image
 ```
@@ -38,6 +39,11 @@ make clean && make
 ```
 cd ~/umlrtonline-backend && node app.js
 ```
-
+## Starting the backend on system boot
+You can use PM2 to automatically start the app in the background on system boot
+```
+sudo npm install pm2 -g
+pm2 start ~/umlrtonline-backend/app.js
+```
 ## Usage
 Simply point the [Papyrus-RT Remote Executor plugin](https://github.com/kjahed/umlrtonline-papyrusrt) to your server's URL.
